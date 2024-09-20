@@ -16,7 +16,7 @@ BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
 OWNER_USERNAME = getenv("OWNER_USERNAME","@ll_NOBITA_BOT_DEVLOPER_ll")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "iLast_FM_Bot)
+BOT_USERNAME = getenv("BOT_USERNAME" , "iLast_FM_Bot")
 # --------------------------------------------------------
 BOT_NAME = getenv("BOT_NAME" , "𝙻𝚊𝚜𝚝.𝙵𝙼")
 # ---------------------------------------------------------
