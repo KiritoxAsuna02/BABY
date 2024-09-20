@@ -35,7 +35,7 @@
 </h3>
 
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/BABY-MUSIC/BABYXMUSIC"> <img src="https://graph.org/file/7758e15f135e166b8637d.jpg" width="520" height="198.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/vishalpandeynkp1/BABY-JANU-LAUDA-MUSIC-REPO"> <img src="https://graph.org/file/7758e15f135e166b8637d.jpg" width="520" height="198.45"/></a></p>
 
 
 
@@ -49,7 +49,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 
-- Get your [Necessary Variables]([ ](https://github.com/BABY-MUSIC/BABYXMUSIC)/blob/master/sample.env)
+- Get your [Necessary Variables]([ ](https://github.com/vishalpandeynkp1/BABY-JANU-LAUDA-MUSIC-REPO)/blob/master/sample.env)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install Ffmpeg by :
