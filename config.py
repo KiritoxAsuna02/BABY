@@ -14,7 +14,7 @@ API_HASH = getenv("API_HASH")
 # ------------------------------------------------------
 BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","@ll_NOBITA_BOT_DEVLOPER_ll")
+OWNER_USERNAME = getenv("OWNER_USERNAME" , "@ELITE_KIRITO")
 # --------------------------------------------------------
 BOT_USERNAME = getenv("BOT_USERNAME" , "iLast_FM_Bot")
 # --------------------------------------------------------
